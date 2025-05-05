@@ -26,7 +26,7 @@
 ## Clone
 
 ```sh
-git clone https://github.com/kendono/kendono ken
+git clone https://github.com/thekenblack/ken
 ```
 
 ## Guide
