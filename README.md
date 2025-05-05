@@ -8,8 +8,6 @@
 
 - [X Account](https://x.com/the_ken_black)
 - [Discord Server](https://discord.gg/jhJ64HDRSX)
-- Static Website (not yet prepared)
-- Server Website (not yet prepared)
 
 ## Setup
 
